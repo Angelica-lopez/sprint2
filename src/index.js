@@ -5,6 +5,7 @@ import App from './App';
 import Home from './views/Home/Home';
 import Admin from './views/Admin/Admin';
 import reportWebVitals from './reportWebVitals';
+import Registro from './views/Registro/Registro';
 
 
 ReactDOM.render(
