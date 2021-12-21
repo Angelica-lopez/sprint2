@@ -1,9 +1,10 @@
-import Name from './components/Name/Name'
+import RegistroPage from './views/RegistroPage/RegistroPage'
 
 function App() {
+  const color = "register";
   return (
     <div className="App">
-      <Name />
+      <RegistroPage />
     </div>
   );
 }

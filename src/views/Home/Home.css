@@ -1,0 +1,16 @@
+.content{
+    display: flex;
+    align-items: center;
+    padding-bottom: 19%;
+    padding-top: 12.2%;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.footer {
+    color: yellow;
+    background-color: yellow;
+    display: block;
+    width: 100%;
+    padding-top: 14px;
+}

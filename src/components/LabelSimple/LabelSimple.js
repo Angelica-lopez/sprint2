@@ -1,9 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './LabelSimple.css'
 
-function LabelSimple() {
+function LabelSimple({label}) {
   return (
     <label className="LabelSimple">
-      <input typr="text" />Texto
+      {label}
+      <input type="text" />
     </label>
   );
 }

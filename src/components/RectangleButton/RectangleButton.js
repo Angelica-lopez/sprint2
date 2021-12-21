@@ -1,8 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './RectangleButton.css'
 
-function RectangleButton() {
+function RectangleButton({contentButton}) {
     return (
-      <button className="RectangleButton">Continuar</button>
+      <button className="RectangleButton">{contentButton}</button>
     );
   }
   

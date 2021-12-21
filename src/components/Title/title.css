@@ -1,0 +1,18 @@
+.Administrar {
+    color: black;
+    background-color: yellow;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.Registro {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    display: block;
+}
+
+.titlePink {
+    background-color: white;
+}
